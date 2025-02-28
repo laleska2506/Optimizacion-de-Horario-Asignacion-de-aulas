@@ -1,4 +1,4 @@
-<h1>Optimizador de asignacion de aulas para bloques de cursos</h1>
+<h1>Optimización del proceso de asignacion de aulas para cursos</h1>
 
 ## Requisitos Previos
 - Python (versión específica, por ejemplo: Python 3.8+)
